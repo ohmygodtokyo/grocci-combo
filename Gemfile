@@ -27,15 +27,6 @@ gem 'jquery-rails', '~> 4.6'
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
-# Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '~> 4.2'
-
-# Use CoffeeScript for .coffee assets and views
-gem 'coffee-rails', '~> 5.0'
-
-# Use jquery as the JavaScript library
-gem 'jquery-rails', '~> 4.6'
-
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
 
@@ -61,19 +52,7 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 
 # Use Sass to process CSS
-<<<<<<< HEAD
 gem 'sass-rails', '~> 6.0'
-=======
-<<<<<<< HEAD
-gem "sassc-rails"
-=======
-<<<<<<< HEAD
-gem "sassc-rails"
-=======
- gem "sassc-rails"
->>>>>>> 14125924e746314bb2831776b6da0d5e4665be4c
->>>>>>> 2cdbf546ed15c95703ef18b0f7daafec4d0ef6cf
->>>>>>> 52b2e0c75a86e82de6bf82b1f3a1968e623f57f6
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
