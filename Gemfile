@@ -15,6 +15,15 @@ gem "sqlite3", "~> 1.4"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
+# Use Uglifier as compressor for JavaScript assets
+gem 'uglifier', '~> 4.2'
+
+# Use CoffeeScript for .coffee assets and views
+gem 'coffee-rails', '~> 5.0'
+
+# Use jquery as the JavaScript library
+gem 'jquery-rails', '~> 4.6'
+
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
@@ -52,7 +61,15 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
 
 # Use Sass to process CSS
+<<<<<<< HEAD
 gem "sassc-rails"
+=======
+<<<<<<< HEAD
+gem "sassc-rails"
+=======
+ gem "sassc-rails"
+>>>>>>> 14125924e746314bb2831776b6da0d5e4665be4c
+>>>>>>> 2cdbf546ed15c95703ef18b0f7daafec4d0ef6cf
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
