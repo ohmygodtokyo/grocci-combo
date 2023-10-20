@@ -70,3 +70,5 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'psych', '~> 5.1', '>= 5.1.1.1'
