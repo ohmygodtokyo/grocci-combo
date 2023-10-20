@@ -84,6 +84,7 @@ gem 'psych', '~> 5.1', '>= 5.1.1.1'
 
 # Install Bootstrap in your Ruby apps using Bundler
 gem 'bootstrap', '~> 5.3', '>= 5.3.1'
+<<<<<<< HEAD
 
 
 
@@ -91,3 +92,5 @@ gem 'bootstrap', '~> 5.3', '>= 5.3.1'
 
 
 
+=======
+>>>>>>> dd999bda0fcf3dbf4e1f526138ac9ced4d7518aa
