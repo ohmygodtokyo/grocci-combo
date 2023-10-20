@@ -264,6 +264,14 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   jquery-rails (~> 4.6)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 2cdbf546ed15c95703ef18b0f7daafec4d0ef6cf
+>>>>>>> 52b2e0c75a86e82de6bf82b1f3a1968e623f57f6
   psych (~> 5.1, >= 5.1.1.1)
   puma (~> 5.0)
   rails (~> 7.0.8)
